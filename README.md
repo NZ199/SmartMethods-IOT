@@ -11,6 +11,25 @@ This repository is for the tasks in the IOT path in smart methods training.
 - HTML Page
   1. https://s-m.com.sa/f.html
   2. https://s-m.com.sa/s.html
+
+
+# Task 2
+## Connecting two controllers together
+This task demonstrates how to connect two Arduino controllers together using the I2C communication protocol in Tinkercad. The first controller reads the state of a push button and sends it to the second controller, which controls an LED based on the received value.
+### Hardware Requirements
+To complete this task, you will need the following components:
+- 2 x Arduino UNO boards
+- 1 x Push button
+- 1 x LED
+- 2 x 220-ohm resistors
+- Jumper wires
+
+### Software Requirements
+To complete this task, you will need access to the Tinkercad online simulation platform.
+
+### Circuit 
+<img width="960" alt="image" src="https://github.com/NZ199/SmartMethods-IOT/assets/95175322/4654c7fa-e7a4-43a1-a170-c6cf74ba863b">
+
   
     
 
