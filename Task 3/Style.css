@@ -1,0 +1,39 @@
+body {
+    background-color:white;
+}
+
+
+.container {
+    margin: 10% auto;
+    width: 50%;
+    height: 40vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sensor_container {
+    height: 100%;
+    width: 50%;
+    margin-left: 150px;
+    margin-right: 150px;}
+
+
+.sensor_container h1 {
+    font-family: sans-serif;
+    font-weight: 16px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.sensor_value {
+    margin: auto;
+    height: 75%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
