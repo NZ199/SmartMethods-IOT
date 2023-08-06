@@ -30,6 +30,21 @@ To complete this task, you will need access to the Tinkercad online simulation p
 ### Circuit 
 <img width="960" alt="image" src="https://github.com/NZ199/SmartMethods-IOT/assets/95175322/4654c7fa-e7a4-43a1-a170-c6cf74ba863b">
 
-  
-    
+ # Task 3
+## Make an electronic circuit for the humidity reading sensor & link the sensor readings with a plate containing GET
+This task involves creating an electronic circuit that measures humidity using a humidity sensor and then transmits the sensor readings to a web server using the GET method. The circuit will be simulated using WOKWI, and the data will be stored and managed using PHPMyAdmin.
+### Requirements
+To successfully complete this task, you will need the following:
+- A computer with internet access WOKWI account (https://wokwi.com)
+- Basic knowledge of electronics and circuit design
+- ESP32
+- Humidity sensor (e.g., DHT11 or DHT22)
+- Arduino board (e.g., Arduino Uno)
+- Jumper wires
+- ohm resistors
+- Web server with PHP and MySQL support (e.g., XAMPP)
+### Electronic circuit for the humidity reading sensor   
+<img width="431" alt="image" src="https://github.com/NZ199/SmartMethods-IOT/assets/95175322/e9126984-370c-426d-84a4-07cc2a9c7cf1">
+
+
 
