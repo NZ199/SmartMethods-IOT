@@ -46,5 +46,17 @@ To successfully complete this task, you will need the following:
 ### Electronic circuit for the humidity reading sensor   
 <img width="431" alt="image" src="https://github.com/NZ199/SmartMethods-IOT/assets/95175322/e9126984-370c-426d-84a4-07cc2a9c7cf1">
 
+### HTML Page
+<img width="960" alt="image" src="https://github.com/NZ199/SmartMethods-IOT/assets/95175322/518e01c4-349d-4598-8b1b-44ecab0043f2">
+
+### Database
+1. In phpMyAdmin, create a database named "esp32", then create a table named "dht" with values shown in below image
+<img width="386" alt="image" src="https://github.com/NZ199/SmartMethods-IOT/assets/95175322/03bdef2b-a7ca-4811-bd7a-fc1f66f2658a">
+
+2. Now power ON the ESP32 and use the index.html and app.css files in Task3 to test it.
+3. Let the ESP32 run for few minutes to send data to MYSQL database, and as you can see database now have temperature and humidity data:
+<img width="184" alt="image" src="https://github.com/NZ199/SmartMethods-IOT/assets/95175322/9bc08126-abd3-4571-a50d-650463f7aabd">
+
+
 
 
