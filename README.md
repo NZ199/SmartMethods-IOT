@@ -57,6 +57,12 @@ To successfully complete this task, you will need the following:
 3. Let the ESP32 run for few minutes to send data to MYSQL database, and as you can see database now have temperature and humidity data:
 <img width="184" alt="image" src="https://github.com/NZ199/SmartMethods-IOT/assets/95175322/9bc08126-abd3-4571-a50d-650463f7aabd">
 
+ # Task 4
+## Using Internet of Things (IoT) to Control the Robot in the Closing Ceremony
+This task aims to explore the utilization of the Internet of Things (IoT) technology to control a robot during the closing ceremony of an event. By integrating IoT devices, sensors, and actuators, we can enhance the robot's functionality and create an interactive and engaging experience for the audience
+### Task Overview
+In this task, I have written a word document on how to use the Internet of Things to control the robot in the closing ceremony of the company.
+
 
 
 
